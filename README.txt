@@ -1,4 +1,5 @@
 Infrastructure Decision Tool
+By Dylan Hedgepeth
 
 This program lets you choose between two tools:
 
